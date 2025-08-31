@@ -1,0 +1,23 @@
+{
+    "contact":{
+          "firstName": "Rejina",
+                "lastName": "Maharjan",
+                "birthdate": "2004-03-17",
+                "email": "maharjanrejina05@gmail.com",
+                "phone": "9860439199",
+                "street1": "samakhushi",
+                "city": "kathmandu",
+                "postalCode": "44600",
+                "country": "Nepal"
+    },
+    "contactEdit":{
+            "firstName": "Rejna",
+    "lastName": "Mahrjan",
+    "birthdate": "2004-03-18",
+    "email": "maharjanrejina0@gmail.com",
+    "phone": "9860439119",
+    "street1": "samakhusi",
+    "city": "kathmandu",
+    "postalCode": "44600",
+    "country": "Nepal"
+}}
